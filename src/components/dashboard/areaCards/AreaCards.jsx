@@ -15,7 +15,7 @@ const AreaCards = () => {
       />
       <AreaCard
         colors={["#e4e8ef", "#4ce13f"]}
-        percentFillValue={50}
+        percentFillValue={65}
         cardInfo={{
           title: "Todays Revenue",
           value: "$8.2K",
